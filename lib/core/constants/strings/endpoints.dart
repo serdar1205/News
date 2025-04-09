@@ -1,5 +1,5 @@
 class ApiEndpoints {
-  static const apikey = 'your-api-key';
+  static const apikey = '8700b027d36843c3a561c2e826040199';
   static const countryCode = 'us';
 
   static const baseUrl = 'https://newsapi.org/v2/';

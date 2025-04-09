@@ -10,3 +10,4 @@ void main() async {
   await initLocator();
   runApp(const AppStart());
 }
+ 

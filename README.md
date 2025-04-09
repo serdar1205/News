@@ -1,16 +1,33 @@
-# news_app
+# News flutter app
 
-News app
+This is news app. You can read here news and can write your comments for articles.
+You can use app after signed up. It stores data in database and you can read articles offline after data has fetched once.
+It shows count of comments on article badge.
 
-## Getting Started
+## App contains
 
-This project is a starting point for a Flutter application.
+- Flutter Clean architecture
+- State management: Bloc
+- DI get_it
+- Routing: go_router 
+- Floor database
+- Firebase
+- Cloud Firestore
+- Firebase Authentication
+- Streams
+- Pagination
+- Internet checker
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Authentication
+- Read article
+- Add comment to articles
+- Search articles online and offline
+- History of read articles
+- Clear the history
+- Comments count
+
+
